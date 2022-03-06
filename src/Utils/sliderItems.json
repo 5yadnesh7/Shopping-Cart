@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "TV",
+        "url": "tv.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tablet",
+        "url": "tablet.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mobile",
+        "url": "mobile.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Shoe",
+        "url": "shoe.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Smart Watch",
+        "url": "smartwatch.jpg"
+    }
+]

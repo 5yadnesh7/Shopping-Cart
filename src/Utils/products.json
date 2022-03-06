@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "url": "apple1.jpg",
+        "price": 1500
+    },
+    {
+        "id": 2,
+        "name": "Infinix",
+        "url": "infinix1.jpg",
+        "price": 400
+    },
+    {
+        "id": 3,
+        "name": "Narzo",
+        "url": "narzo1.jpg",
+        "price": 500
+    },
+    {
+        "id": 4,
+        "name": "Poco",
+        "url": "poco1.jpg",
+        "price": 557
+    },
+    {
+        "id": 5,
+        "name": "Realme",
+        "url": "realme1.jpg",
+        "price": 721
+    },
+    {
+        "id": 6,
+        "name": "Samsung",
+        "url": "samsung1.jpg",
+        "price": 1231
+    },
+    {
+        "id": 7,
+        "name": "Xiaomi",
+        "url": "xiaomi1.jpg",
+        "price": 900
+    }
+]
