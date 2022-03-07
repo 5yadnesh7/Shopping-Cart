@@ -12,7 +12,8 @@ const productChange = (state = initialstate, action) => {
 export default productChange;
 
 const addProductToStore = (state, action) => {
-    state.total = state.total + action.payload.price;
-    state.products.push(action.payload);
-    return state;
+    let tmpState = { ...state }
+    tmpState.total = tmpState.total + action.payload.price;
+    tmpState.products.push(action.payload);
+    return tmpState;
 }
