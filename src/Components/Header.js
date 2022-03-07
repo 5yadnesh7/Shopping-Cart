@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import './common.css'
 import logo from '../Assets/Images/logo.jpg'
 import { useSelector } from "react-redux";
-// import store from '../Redux/store'
 
 const Header = () => {
 
